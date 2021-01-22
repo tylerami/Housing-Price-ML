@@ -1,2 +1,2 @@
-# Western AI Housing Market ML Project
- Implements SciKit-Learn, NumPy and Pandas to evaluate data using supervised machine learning and predict housing price fluctuations.
+# WESTERN-AI---Housing-Prices
+Using the data provided in the csv files, predict the sale price of a house based on the features about the house
